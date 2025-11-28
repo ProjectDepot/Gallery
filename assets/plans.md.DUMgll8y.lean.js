@@ -1,1 +1,0 @@
-import{_ as a,c as t,o,ae as r}from"./chunks/framework.Cd2kwinT.js";const u=JSON.parse('{"title":"Plans for PD Gallery","description":"","frontmatter":{},"headers":[],"relativePath":"plans.md","filePath":"plans.md"}'),n={name:"plans.md"};function i(s,e,l,c,d,h){return o(),t("div",null,[...e[0]||(e[0]=[r("",19)])])}const m=a(n,[["render",i]]);export{u as __pageData,m as default};
