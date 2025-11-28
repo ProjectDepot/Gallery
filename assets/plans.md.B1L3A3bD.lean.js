@@ -1,0 +1,1 @@
+import{_ as a,c as t,o,ae as r}from"./chunks/framework.BYn6hplE.js";const u=JSON.parse('{"title":"Plans for SrcGallery","description":"","frontmatter":{},"headers":[],"relativePath":"plans.md","filePath":"plans.md"}'),n={name:"plans.md"};function i(s,e,l,c,d,h){return o(),t("div",null,[...e[0]||(e[0]=[r("",20)])])}const m=a(n,[["render",i]]);export{u as __pageData,m as default};
